@@ -1,0 +1,42 @@
+h1 {
+	color: darkblue;
+	font-size:26pt;
+	font-weight:bold;
+}
+
+h2 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+}
+
+
+
+body { 
+	background: lightyellow; 
+	color: darkblue;
+	font-size: 24pt;
+	font-family: 'Amatic SC', cursive;
+}
+     
+     
+p5 { background: white;
+	padding: 10px;
+	margin: 20px;
+	}
+	
+	
+a {color: blue;
+	text-decoration: none;} 
+	
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+	
+	img {
+    vertical-align: text-top;
+}
