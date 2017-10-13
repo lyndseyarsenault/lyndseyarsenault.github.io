@@ -1,0 +1,48 @@
+h1 {color: black;
+	font-size: 26pt;
+	text-align: center;
+ }
+ 
+ 
+ body { 
+	background: lightblue; 
+	color: blue;
+	font-size: 24pt;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+h2 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+	text-align: center;
+}
+h3 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+}
+h4 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+}
+h5 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+}
+h6 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+}
+h7 { font-size: 18pt; 
+	background: white; 
+	padding: 10px;
+	margin:20px;
+}
+
+
+	

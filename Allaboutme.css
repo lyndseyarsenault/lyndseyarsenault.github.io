@@ -1,0 +1,16 @@
+
+body { 
+	background: black; 
+	color: silver;
+	font-size: 18pt;
+	font-family: 'Quattrocento', serif;
+}
+h1 {color: lightblue;
+	font-size: 22pt;
+	text-align: center;
+ }
+ h2 {color: lightblue;
+ 	font-size: 20pt;
+ 	text-align: center;
+ }
+ 
